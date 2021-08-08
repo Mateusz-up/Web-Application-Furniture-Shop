@@ -6,4 +6,4 @@ Possibility to add goods to the basket after logging in to the website.
 
 Possibility to order goods home after completing the form.
 
-http://projectfurnitureshopmd.000webhostapp.com
+https://projectfurnitureshopmd.000webhostapp.com
